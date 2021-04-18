@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/clean-me-up.iml" filepath="$PROJECT_DIR$/clean-me-up.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clean-me-up-rest/clean-me-up-rest.iml" filepath="$PROJECT_DIR$/clean-me-up-rest/clean-me-up-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clean-me-up-support/clean-me-up-support.iml" filepath="$PROJECT_DIR$/clean-me-up-support/clean-me-up-support.iml" />
+    </modules>
+  </component>
+</project>

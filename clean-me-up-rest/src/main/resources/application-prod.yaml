@@ -1,0 +1,4 @@
+smtp:
+  email:
+    username: fooprod
+    password: secretprod

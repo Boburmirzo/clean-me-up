@@ -1,0 +1,4 @@
+smtp:
+  email:
+    username: foodev
+    password: secretdev
